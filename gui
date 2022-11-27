@@ -69,7 +69,7 @@ RunService:BindToRenderStep("furryWalls", Enum.RenderPriority.Camera.Value - 1, 
 	end
 end)
 
-local mainWindow = Library:CreateWindow("Squares's Hitbox Expander")
+local mainWindow = Library:CreateWindow("Trajanware Basic Edition")
 local mainTab = mainWindow:AddTab("Main")
 local mainGroupbox = mainTab:AddLeftGroupbox("Hitbox Expander")
 local espGroupbox = mainTab:AddLeftGroupbox("ESP")
@@ -674,5 +674,5 @@ end
 
 _G.FurryHBELoaded = true
 updatePlayers()
-Library:Notify("hai :3")
+Library:Notify("Trajanware is Injected!")
 Library:Notify("Press " .. Library.ToggleKeybind.Value .. " to open the menu")
