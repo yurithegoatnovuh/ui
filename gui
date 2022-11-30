@@ -69,7 +69,7 @@ RunService:BindToRenderStep("furryWalls", Enum.RenderPriority.Camera.Value - 1, 
 	end
 end)
 
-local mainWindow = Library:CreateWindow("Trajanware Basic Edition")
+local mainWindow = Library:CreateWindow("Yurisploit Basic Edition")
 local mainTab = mainWindow:AddTab("Main")
 local mainGroupbox = mainTab:AddLeftGroupbox("Hitbox Expander")
 local espGroupbox = mainTab:AddLeftGroupbox("ESP")
