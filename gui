@@ -674,5 +674,5 @@ end
 
 _G.FurryHBELoaded = true
 updatePlayers()
-Library:Notify("Trajanware is Injected!")
+Library:Notify("Yurisploit is Injected!")
 Library:Notify("Press " .. Library.ToggleKeybind.Value .. " to open the menu")
